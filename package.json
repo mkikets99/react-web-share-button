@@ -32,8 +32,8 @@
   "homepage": "https://github.com/AvraamMavridis/react-web-share-button#readme",
   "peerDependencies": {
     "prop-types": "^15.6.1",
-    "react": "=16.2.0",
-    "react-dom": "=16.2.0"
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0"
   },
   "devDependencies": {
     "babel-cli": "^6.26.0",
